@@ -74,4 +74,4 @@ climbing
 
 
 ## RESULT:
-Hence we have created an environment suitable for the above mentioned problen.
+Hence we have created an environment suitable for the above mentioned problem.
