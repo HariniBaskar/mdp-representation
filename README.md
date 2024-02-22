@@ -30,8 +30,11 @@ The agent has to reach the goal state(top of hill) by taking the correct step to
 
 ### Reward Function
 if Agent reached Goal(G) state:
+
 reward=+1
+
 else
+
 reward=0
 
 ### Graphical Representation
