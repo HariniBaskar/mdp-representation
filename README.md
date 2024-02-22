@@ -38,7 +38,8 @@ else
 reward=0
 
 ### Graphical Representation
-Write your answer here
+![WhatsApp Image 2024-02-22 at 22 26 40](https://github.com/HariniBaskar/mdp-representation/assets/93427253/692afcc7-3177-49ad-b363-48ad093b6eff)
+
 
 ## PYTHON REPRESENTATION:
 ```
